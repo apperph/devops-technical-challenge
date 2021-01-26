@@ -95,8 +95,10 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 * Implement AWS EKS services and RDS Connectivity
 * Implement readable kubernetes manifest files
 * Implement CI/CD to AWS EKS using AWS CodePipeline.
+  
 
-## ✅ Submissions ✅
+&nbsp;
+## ✅ Submissions
 
 * Email the working URL at developers@apper.ph. We should be able to access the URL/ and URL/health
 ![System diagram](assets/working-page.jpg)
