@@ -103,4 +103,4 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 * Email the working URL at developers@apper.ph. We should be able to access the URL/ and URL/health
 ![System diagram](assets/working-page.jpg)
 
-* Create a pull request on your repository. It should include all the templates, manifest, configuration or any files that you've created during the challenges. We will review it and will base our judging criteria. Please email the PR link at developers@apper.ph
+* Create a pull request on your repository. It should include all the templates, manifest, configuration or any files that you've created to implement the challenges given above. We will review it and will base our judging criteria. Please email the PR link at developers@apper.ph
