@@ -19,7 +19,7 @@ Welcome to the Apper.ph technical challenge! If you are someone who wanted to be
 * The challenge are divided into three tiers based on the knowledge and experience required to complete them.
   **Note**: *It's ok not to finish all of them but completing higher tier is very much encourage.*
 &nbsp;
-* Please complete the code in your own github repository and submit a pull request.
+* Please complete the code in your own github repository and submit a pull request. Please create your own repository.
 &nbsp;
 * Keep in touch with us and feel free to contact us for questions and clarifications.
 
@@ -95,3 +95,10 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 * Implement AWS EKS services and RDS Connectivity
 * Implement readable kubernetes manifest files
 * Implement CI/CD to AWS EKS using AWS CodePipeline.
+
+## ✅ Submissions ✅
+
+* Email the working URL at developers@apper.ph. We should be able to access the URL/ and URL/health
+![System diagram](assets/working-page.jpg)
+
+* Create a pull request on your repository. It should include all the templates, manifest, configuration or any files that you've created during the challenges. We will review it and will base our judging criteria. Please email the PR link at developers@apper.ph
