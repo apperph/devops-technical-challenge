@@ -10,6 +10,8 @@ Welcome to the Apper.ph technical challenge! If you are someone who wanted to be
 ## Basics
 **The rules of this challenge is simple**
 
+* Please complete the code in your own github repository and submit a pull request. Please create your own repository.
+&nbsp;
 * What you will build should satisfy the challenge statement/requirements.
 &nbsp;
 * Your code should be human readable and uses intellectual words.
@@ -18,8 +20,6 @@ Welcome to the Apper.ph technical challenge! If you are someone who wanted to be
 &nbsp;
 * The challenge are divided into three tiers based on the knowledge and experience required to complete them.
   **Note**: *It's ok not to finish all of them but completing higher tier is very much encourage.*
-&nbsp;
-* Please complete the code in your own github repository and submit a pull request. Please create your own repository.
 &nbsp;
 * Keep in touch with us and feel free to contact us for questions and clarifications.
 
