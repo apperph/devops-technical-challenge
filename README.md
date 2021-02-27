@@ -69,7 +69,7 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 
 &nbsp;
 ### :ledger: Tier-2: Intermediate Challenge
-**Architecture diagram - AWS ECS**
+**Architecture diagram - AWS ECS** 
 ![System diagram](assets/ECS.png)
 
 * Implement VPC
@@ -91,11 +91,11 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 * Implement RDS
 * Implement SecurityGroups
 * Implement IAM Roles and Access Policies
-* Implement Route53 -> Cloudfront -> Application Loadbalancer -> AWS EKS services Integration and Connectivity
-* Implement AWS EKS services and RDS Connectivity
+* Implement EKS Managed Nodegroups
+* Implement Route53 -> Cloudfront -> Application Loadbalancer -> AWS EKS microservices Integration and Connectivity
+* Implement AWS EKS microservices and RDS Connectivity
 * Implement readable kubernetes manifest files
 * Implement CI/CD to AWS EKS using AWS CodePipeline.
-  
 
 &nbsp;
 ## ✅ Submissions
