@@ -10,7 +10,7 @@ Welcome to the Apper.ph technical challenge! If you are someone who wanted to be
 ## Basics
 **The rules of this challenge is simple**
 
-* Please complete the code in your own github repository and submit a pull request. Please create your own repository.
+* Please commit all your scripts and templates on a single AWS CodeCommit repository. (AWS account will be provided by Apper)
 &nbsp;
 * What you will build should satisfy the challenge statement/requirements.
 &nbsp;
@@ -100,7 +100,12 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 &nbsp;
 ## ✅ Submissions
 
-* Email the working URL at developers@apper.ph. We should be able to access the URL/ and URL/health
+* Tier 1 & Tier 2 should be completed within 1 week
+&nbsp;
+* Tier 3 should be completed within 2 weeks
+  &nbsp;
+* Submit the working url on the DevOps Candidate message thread on our Basecamp. We should be able to access the URL/ and URL/health
 ![System diagram](assets/working-page.jpg)
+&nbsp;
 
 * Create a pull request on your repository. It should include all the templates, manifest, configuration or any files that you've created to implement the challenges given above. We will review it and will base our judging criteria. Please email the PR link at developers@apper.ph
