@@ -10,7 +10,7 @@ Welcome to the Apper.ph technical challenge! If you are someone who wanted to be
 ## Basics
 **The rules of this challenge is simple**
 
-* Please commit all your scripts and templates on a single AWS CodeCommit repository. (AWS account will be provided by Apper)
+* Please commit all your scripts and templates on AWS CodeCommit repository. (AWS account will be provided by Apper).
 &nbsp;
 * What you will build should satisfy the challenge statement/requirements.
 &nbsp;
@@ -62,7 +62,7 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 * Implement RDS
 * Implement SecurityGroups
 * Implement IAM Roles and Access Policies
-* Implement Route53 -> Cloudfront -> Application Loadbalancer -> Elastic Beanstalk Integration and Connectivity
+* Implement Route53 -> Cloudfront -> Application Loadbalancer -> Elastic Beanstalk Integration and Connectivity (use apperdevops.com)
 * Implement Elastic Beanstalk Web Server and RDS Connectivity
 * Implement Elastic Beanstalk Custom Config using .ebextensions
 * Implement CI/CD to ElasticBeanstalk using AWS CodePipeline. (No manual upload of application zip file.)
@@ -76,7 +76,7 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 * Implement RDS
 * Implement SecurityGroups
 * Implement IAM Roles and Access Policies
-* Implement Route53 -> Cloudfront -> Application Loadbalancer -> AWS ECS Integration and Connectivity
+* Implement Route53 -> Cloudfront -> Application Loadbalancer -> AWS ECS Integration and Connectivity (use apperdevops.com)
 * Implement AWS ECS Web Server and RDS Connectivity
 * Dockerize the application. Add Dockerfile.
 * Push image to AWS ECR
@@ -92,20 +92,28 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 * Implement SecurityGroups
 * Implement IAM Roles and Access Policies
 * Implement EKS Managed Nodegroups
-* Implement Route53 -> Cloudfront -> Application Loadbalancer -> AWS EKS microservices Integration and Connectivity
+* Implement Route53 -> Cloudfront -> Application Loadbalancer -> AWS EKS microservices Integration and Connectivity (use apperdevops.com)
 * Implement AWS EKS microservices and RDS Connectivity
 * Implement readable kubernetes manifest files
 * Implement CI/CD to AWS EKS using AWS CodePipeline.
 
 &nbsp;
-## ✅ Submissions
+## ✅ Submission Checklist
 
-* Tier 1 & Tier 2 should be completed within 1 week
+* Here at Apper, we use Basecamp as our official communication channel and project management tool. We will add you during the onboarding process.
 &nbsp;
-* Tier 3 should be completed within 2 weeks
-  &nbsp;
-* Submit the working url on the DevOps Candidate message thread on our Basecamp. We should be able to access the URL/ and URL/health
+* AWS Account will be provided by Apper. It will be provision during the onboarding process.
+&nbsp;
+* Create your own AWS CodeCommit repository. (e.g. repo name: surname-devops-challenge-project-id)
+&nbsp;
+* Commit all your work on the repository. It should include all the templates, manifest, configuration or any files that you've created to implement each challenges. We will review it base on our judging criteria stated above.
+&nbsp;
+* Tier 1 and 2 completion should be 1 week.
+&nbsp;
+* Tier 1, 2 and 3 completion should be 2 weeks.
+&nbsp;  
+* Submit the commit hash on or before the final day (11:59:59 UTC+8) of the given time frame on the DevOps Candidate message thread on our Basecamp.
+&nbsp;
+* Submit the working url on or before the final day (11:59:59 UTC+8) of the given time frame on the DevOps Candidate message thread on our Basecamp. We should be able to access the URL/ and URL/health.
+&nbsp;
 ![System diagram](assets/working-page.jpg)
-&nbsp;
-
-* Create a pull request on your repository. It should include all the templates, manifest, configuration or any files that you've created to implement the challenges given above. We will review it and will base our judging criteria. Please email the PR link at developers@apper.ph
