@@ -1,13 +1,13 @@
+require('dotenv').config()
 const express = require('express')
 const morgan = require('morgan')
-// const helmet = require('helmet')
 const cors = require('cors')
+const mysql = require('mysql')
 
 const middlewares = require('./middlewares')
 
 const app = express()
 app.use(morgan('common'))
-// app.use(helmet())
 app.use(cors())
 
 app.get('/', (req, res) => {
@@ -27,6 +27,30 @@ app.use(middlewares.errorHandler)
 
 const port = process.env.PORT || 1337
 
+const {
+  HOST,
+  USERNAME,
+  PASSWORD,
+  DATABASE
+} = process.env
+
 app.listen(port, () => {
-  console.log(`Server running: Listening at https://localhost:${port}`)
+  // DON'T EDIT or MODIFY!!!!
+  const connection = mysql.createConnection({
+    host: HOST,
+    user: USERNAME,
+    password: PASSWORD,
+    database: DATABASE
+  })
+
+  connection.connect();
+
+  connection.query('SELECT 1 + 1 AS solution', function (error, results, fields) {
+    if (error) throw error;
+    console.log('The solution is: ', results[0].solution);
+    console.log('Database is operating normally')
+    console.log(`Server running: Listening at http://localhost:${port}`)
+  });
+
+  connection.end();
 })
