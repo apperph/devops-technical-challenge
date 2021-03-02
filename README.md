@@ -10,7 +10,7 @@ Welcome to the Apper.ph technical challenge! If you are someone who wanted to be
 ## Basics
 **The rules of this challenge is simple**
 
-* Please commit all your scripts and templates on AWS CodeCommit repository. (AWS account will be provided by Apper).
+* Please commit all your scripts and templates on your Github repository(s).
 &nbsp;
 * What you will build should satisfy the challenge statement/requirements.
 &nbsp;
@@ -21,7 +21,7 @@ Welcome to the Apper.ph technical challenge! If you are someone who wanted to be
 * The challenge are divided into three tiers based on the knowledge and experience required to complete them.
   **Note**: *It's ok not to finish all of them but completing higher tier is very much encourage.*
 &nbsp;
-* Keep in touch with us and feel free to contact us for questions and clarifications.
+* Keep in touch with us and feel free to message us for questions and clarifications.
 
 ## The Challenge
 
@@ -43,6 +43,8 @@ This repository includes a simple and very minimal express nodejs app in the roo
 **🌟 What you are encouraged to use and our judging criteria 🌟**
 
 Automation and CI/CD are the heart of DevOps. So you're encourage to use development tools, CI/CD tools and automation tools accordingly at all times.
+
+![System diagram](assets/release.jpg)
 
 * Implement IaC (Infrastructure as a code) leveraging AWS Cloudformation
 * Implement CI/CD using AWS Codepipeline, CodeCommit, CodeBuild and CodeDeploy (Optional)
@@ -104,7 +106,7 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 &nbsp;
 * AWS Account will be provided by Apper. It will be provision during the onboarding process.
 &nbsp;
-* Create your own AWS CodeCommit repository. (e.g. repo name: surname-devops-challenge-project-id)
+* Create your own Github repository. (e.g. repo name: surname-devops-challenge-project-id)
 &nbsp;
 * Commit all your work on the repository. It should include all the templates, manifest, configuration or any files that you've created to implement each challenges. We will review it base on our judging criteria stated above.
 &nbsp;
@@ -112,7 +114,7 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 &nbsp;
 * Tier 1, 2 and 3 completion should be 2 weeks.
 &nbsp;  
-* Submit the commit hash on or before the final day (11:59:59 UTC+8) of the given time frame on the DevOps Candidate message thread on our Basecamp.
+* Submit the repo name, repo link and commit hash on or before the final day (11:59:59 UTC+8) of the given time frame on the DevOps Candidate message thread on our Basecamp.
 &nbsp;
 * Submit the working url on or before the final day (11:59:59 UTC+8) of the given time frame on the DevOps Candidate message thread on our Basecamp. We should be able to access the URL/ and URL/health.
 &nbsp;
