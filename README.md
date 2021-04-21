@@ -104,18 +104,48 @@ Automation and CI/CD are the heart of DevOps. So you're encourage to use develop
 
 * Here at Apper, we use Basecamp as our official communication channel and project management tool. We will add you during the onboarding process.
 &nbsp;
-* AWS Account will be provided by Apper. It will be provision during the onboarding process.
+* AWS Account will be provided by Apper. It will be provision after the onboarding session.
 &nbsp;
-* Create your own Github repository. (e.g. repo name: surname-devops-challenge-project-id)
+* Create your own Github repository.
+   - Sample Repo Name: **surname-devops-challenge-project-id**
+   - Commit all your work/implementations on the repository.
+   - It should include all the *templates, manifest, configuration or any files* that you've created to implement each challenges
 &nbsp;
-* Commit all your work on the repository. It should include all the templates, manifest, configuration or any files that you've created to implement each challenges. We will review it base on our judging criteria stated above.
+* Tier 1 and 2 deadline should be 1 week.
 &nbsp;
-* Tier 1 and 2 completion should be 1 week.
-&nbsp;
-* Tier 1, 2 and 3 completion should be 2 weeks.
+* Tier 1, 2 and 3 deadline should be 2 weeks.
 &nbsp;  
-* Submit the repo name, repo link and commit hash on or before the final day (11:59:59 UTC+8) of the given time frame on the DevOps Candidate message thread on our Basecamp.
+
+* Submit the **repo name, repo link and commit hash** on or before (11:59:59PM UTC+8) of the following week.
 &nbsp;
-* Submit the working url on or before the final day (11:59:59 UTC+8) of the given time frame on the DevOps Candidate message thread on our Basecamp. We should be able to access the URL/ and URL/health.
+* Submit the **working url** (https://candidate.apperdevops.com) on or before (11:59:59PM UTC+8) of the following week. We should be able to access the URL/ and URL/health.
 &nbsp;
 ![System diagram](assets/working-page.jpg)
+&nbsp;
+* Ping me personally for your ouput. The format should be 
+
+```
+Working URL:
+
+Tier1: johndoe-tier1.apperdevops.com
+Tier2: johndoe-tier2.apperdevops.com
+Tier3: johndoe-tier3.apperdevops.com
+
+
+Project Repo and final commit hash:
+
+Tier1:
+- Repo Name
+- Repo Link
+- 6baedd54383b8925902d782007aa4a536a8476fc
+
+Tier2:
+- Repo Name
+- Repo Link
+- 6baedd54383b8925902d782007aa4a536a8476fc
+
+Tier3:
+- Repo Name
+- Repo Link
+- 6baedd54383b8925902d782007aa4a536a8476fc
+```
