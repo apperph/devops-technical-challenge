@@ -38,7 +38,7 @@ required to complete them.
 ## Requirements
 **🌟 What You’ll need to build 🌟**
 
-This repository includes a simple and very minimal express nodejs app in the root directory (**./express-minapp**). What you need to do is use this user-facing application and deploy it on AWS. AWS Account will be provided by apper.ph. The deployment and infrastructure varies differently on each tier. Please refer to the diagram and instructions on each tier.
+This repository includes a minimal Node.Js express app.  (**See: ./express-minapp** folder). What you need to do is use this user-facing application and deploy it on AWS. AWS Account will be provided by Apper.ph. The deployment and infrastructure varies differently on each tier. Please refer to the diagram and instructions on each tier.
 
 **🌟 What you are encouraged to use and our judging criteria 🌟**
 
