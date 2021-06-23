@@ -1,9 +1,14 @@
-# Apper DevOps Engineer Technical Challenge! 
+ <!-- ![Branding](assets/apperph-logo-dark@3x.png) -->
+<p align="center">
+ <img src="assets/apperph-logo-dark@3x.png" alt="Branding" width="200"/>
+</p>
 
-<!-- ![Branding](assets/apperph-logo-dark@3x.png) -->
-<img src="assets/apperph-logo-dark@3x.png" alt="Branding" width="200"/>
+<h1 align="center">
+ Apper DevOps Engineer Technical Challenge!
+</h1>
 
 Apper helps businesses adopt new technology and innovation. We extend our years of experience and expertise to ensure worry-free and efficient execution.
+<br>
 
 ## Background
 Welcome to the Apper.ph technical challenge! If you are someone who wanted to be at the forefront of innovation and is looking to be a part of our awesome company, you are here at the right place. You will be a part of a sharp, motivated and world class team working on the most ground breaking technology.
