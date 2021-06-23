@@ -1,6 +1,7 @@
 # Apper DevOps Engineer Technical Challenge! 
 
-![Branding](assets/apperph-logo-dark@3x.png)
+<!-- ![Branding](assets/apperph-logo-dark@3x.png) -->
+<img src="assets/apperph-logo-dark@3x.png" alt="Branding" width="200"/>
 
 Apper helps businesses adopt new technology and innovation. We extend our years of experience and expertise to ensure worry-free and efficient execution.
 
